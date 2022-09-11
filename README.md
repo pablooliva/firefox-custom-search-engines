@@ -1,6 +1,8 @@
-# custom-search-engine
+# Slice Search
 
-## What it does
+This extension allows you to search a **Slice** of the internet. This is done by leveraging a [Google Programmable Search Engine](https://programmablesearchengine.google.com/) to restrict the URLs for specific searches.
+
+## Custom Search Engine Searches
 
 This extension allows you to create your own custom search engines. These searches will work with Firefox's awesome bar.
 
@@ -24,3 +26,6 @@ Example:
     ms @food,restaurant home delivery
     This will result in search to be made on search engines under categories 'food' and 'restaurant'.
 
+### Attribution
+
+Thanks to Ravi for his [original implementation of this extension](https://github.com/rsins/ravi-firefox-custom-search-engines).
